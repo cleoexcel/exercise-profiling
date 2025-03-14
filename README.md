@@ -43,7 +43,7 @@ After Optimization Test Result JMeter
 Before Optimization JMeter:
 <img src="src/images/jmeter_highestgpa.jpg" alt="highest-gpa"/>
 After Optimization JMeter:
-<img src="src/images/after_jmeter_gpa" alt="highest-gpa/>
+<img src="src/images/after_jmeter_gpa.jpg" alt="highest-gpa"/>
 
 Execution Time `findStudentWithHighestGpa()` from Intellij Profiler:
 
